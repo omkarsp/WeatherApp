@@ -1,0 +1,17 @@
+{
+    "name": "com.yourcompany.toastsnackbar",
+    "displayName": "Toast Snackbar Package",
+    "description": "A Unity package for displaying Toast messages on Android and Snackbar on iOS",
+    "version": "1.0.0",
+    "author": {
+        "name": "Omkar Poshatwar",
+        "email": "omkarposhatwar12345@gmail.com"
+    },
+    "samples": [
+        {
+            "displayName": "Demo Scene",
+            "description": "Contains a basic demo scene showing Toast/Snackbar usage",
+            "path": "Samples~/DemoScene"
+        }
+    ]
+}
